@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\italo\\Desktop\\Cursos\\Prática\\C#\\BlazorTailwind\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorTailwind.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorTailwind.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\italo\\Desktop\\Cursos\\Prática\\C#\\BlazorTailwind\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\italo\\Desktop\\Cursos\\Prática\\C#\\BlazorTailwind\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\italo\\Desktop\\Cursos\\Prática\\C#\\BlazorTailwind\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\italo\\Desktop\\Cursos\\Prática\\C#\\BlazorTailwind\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\italo\\Desktop\\Cursos\\Prática\\C#\\BlazorTailwind\\wwwroot\\tailwind-app.css",
+      "PackagePath": "staticwebassets\\tailwind-app.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorTailwind.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorTailwind.props",
+      "PackagePath": "build\\BlazorTailwind.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorTailwind.props",
+      "PackagePath": "buildMultiTargeting\\BlazorTailwind.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorTailwind.props",
+      "PackagePath": "buildTransitive\\BlazorTailwind.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
